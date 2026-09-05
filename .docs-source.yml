@@ -1,7 +1,7 @@
 # Source metadata consumed by MSP Portal sync and build scripts.
 id: firstmate-docs
-name: Firstmate Docs
-category: Agent Operations
+name: Firstmate
+category: Agent Harness
 description: >
   Shared documentation for Firstmate: operating philosophy, architecture,
   harnesses, skills, scripts, workflows, setup, and collaboration practices.
@@ -22,3 +22,4 @@ navigation:
   - snippets
   - troubleshooting
   - reference
+  - skills
