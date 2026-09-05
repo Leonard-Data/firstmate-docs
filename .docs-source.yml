@@ -1,0 +1,24 @@
+# Source metadata consumed by MSP Portal sync and build scripts.
+id: firstmate-docs
+name: Firstmate Docs
+category: Agent Operations
+description: >
+  Shared documentation for Firstmate: operating philosophy, architecture,
+  harnesses, skills, scripts, workflows, setup, and collaboration practices.
+docs_path: docs
+tags:
+  - firstmate
+  - agents
+  - operations
+  - documentation
+navigation:
+  - concepts
+  - architecture
+  - guides
+  - workflows
+  - patterns
+  - components
+  - examples
+  - snippets
+  - troubleshooting
+  - reference
